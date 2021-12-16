@@ -7,7 +7,7 @@
 2.Run task.exe
 
 Note: if task.exe file is not present then manually run cpp file after
-      that exe file will come there\n
+      that exe file will come there
 
 3.After runningtask.exe file you will see the command that you can explore:-
 
