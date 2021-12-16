@@ -2,15 +2,14 @@
 
 ### Steps to run: 
 
-1.Run command prompt in current folder\n
+1.Run command prompt in current folder
 
-2.Run task.exe\n
+2.Run task.exe
 
-Note: if task.exe file is not present then manually run cpp file after\n
-
+Note: if task.exe file is not present then manually run cpp file after
       that exe file will come there\n
 
-3.After runningtask.exe file you will see the command that you can explore:\n
+3.After runningtask.exe file you will see the command that you can explore:-
 
 ### 1. Help
 
