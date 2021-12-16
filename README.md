@@ -1,6 +1,6 @@
 # Task_Manager
 
-##Steps to run:\n
+### Steps to run: \n
 1.Run command prompt in current folder\n
 2.Run task.exe\n
 Note: if task.exe file is not present then manually run cpp file after\n
