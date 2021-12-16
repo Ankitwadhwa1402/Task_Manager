@@ -1,12 +1,18 @@
 # Task_Manager
 
-### Steps to run: \n
+### Steps to run: 
+
 1.Run command prompt in current folder\n
+
 2.Run task.exe\n
+
 Note: if task.exe file is not present then manually run cpp file after\n
+
       that exe file will come there\n
+
 3.After runningtask.exe file you will see the command that you can explore:\n
-   ### 1. Help
+
+### 1. Help
 
 Executing the command without any arguments, or with a single argument help prints the CLI usage.
 
